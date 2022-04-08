@@ -1,0 +1,32 @@
+*{
+    background-color: rgb(235, 235, 56);
+}
+h2{
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    margin-top: 100px;
+}
+.formulario{
+    margin: 20px;
+    font-size: 19px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+#uno{
+    width: 80px;
+    height: 15px;
+}
+#dos{
+    width: 80px;
+    height: 15px;
+}
+#valor{
+    font-size: 20px;
+}
+#cotizador{
+    font-size: 20px;
+    border-radius: 12px;
+    background-color: rgb(232, 128, 49);
+}
